@@ -11,7 +11,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com:MJSuccess1/foundry-smart-contract-lottery-f25
+git clone https://github.com/MJSuccess1/foundry-smart-contract-lottery-f25
 cd foundry-smart-contract-lottery-f25
 forge build
 ```
